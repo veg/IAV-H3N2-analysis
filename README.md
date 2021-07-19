@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/387560352.svg)](https://zenodo.org/badge/latestdoi/387560352)
+
 # Comparative analysis of H3N2 HA sequences
 > From _Characterization of changes in the hemagglutinin that accompanied the emergence of H3N2/1968 pandemic influenza viruses_ by Matrosovich et al 
 
